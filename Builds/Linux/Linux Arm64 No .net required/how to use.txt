@@ -1,0 +1,4 @@
+1. open terminal here
+2. type: chmod +x TokenBF
+3. type: ./TokenBF
+4. Enjoy!
